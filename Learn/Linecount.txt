@@ -1,0 +1,78 @@
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class CountLinesInLargeFile {
+    public static void main(String[] args) throws IOException {
+        String fileName = "testfile.txt";
+        Path filePath = Paths.get(fileName);
+        long lineCount = Files.lines(filePath).count();
+        System.out.println("Number of lines in " + fileName + " is " + lineCount);
+    }
+}
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class CountLinesInLargeFile {
+    public static void main(String[] args) throws IOException {
+        String fileName = "testfile.txt";
+        Path filePath = Paths.get(fileName);
+        long lineCount = Files.lines(filePath).count();
+        System.out.println("Number of lines in " + fileName + " is " + lineCount);
+    }
+}
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class CountLinesInLargeFile {
+    public static void main(String[] args) throws IOException {
+        String fileName = "testfile.txt";
+        Path filePath = Paths.get(fileName);
+        long lineCount = Files.lines(filePath).count();
+        System.out.println("Number of lines in " + fileName + " is " + lineCount);
+    }
+}
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class CountLinesInLargeFile {
+    public static void main(String[] args) throws IOException {
+        String fileName = "testfile.txt";
+        Path filePath = Paths.get(fileName);
+        long lineCount = Files.lines(filePath).count();
+        System.out.println("Number of lines in " + fileName + " is " + lineCount);
+    }
+}
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class CountLinesInLargeFile {
+    public static void main(String[] args) throws IOException {
+        String fileName = "testfile.txt";
+        Path filePath = Paths.get(fileName);
+        long lineCount = Files.lines(filePath).count();
+        System.out.println("Number of lines in " + fileName + " is " + lineCount);
+    }
+}
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+public class CountLinesInLargeFile {
+    public static void main(String[] args) throws IOException {
+        String fileName = "testfile.txt";
+        Path filePath = Paths.get(fileName);
+        long lineCount = Files.lines(filePath).count();
+        System.out.println("Number of lines in " + fileName + " is " + lineCount);
+    }
+}
