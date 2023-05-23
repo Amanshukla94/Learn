@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 public class Productcodeandproductname {
 
@@ -27,6 +28,7 @@ for ( i = 0;i<Alphabet.length;i++)
 		 k++;
 		 j++;
 	 }
+	
 	 for (k= 0;k<Outputarray.length;k++) {
 		 System.out.println(Outputarray[k]);
 		 if (Outputarray[k]=="null") {
@@ -34,7 +36,6 @@ for ( i = 0;i<Alphabet.length;i++)
 		 }
 	 }
 }
-
 }
 
 
